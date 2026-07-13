@@ -1,52 +1,58 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:172554,100:2563EB&text=GSSANA&fontColor=FFFFFF&fontSize=52&fontAlignY=35&desc=Backend%20%E2%80%A2%20DevOps%20%E2%80%A2%20System%20Builder&descAlignY=58&animation=fadeIn" />
+# GSSANA
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Designing+systems+that+actually+work.;Building+backend+and+cloud+infrastructure.;Automate.+Deploy.+Monitor.+Improve." alt="Typing introduction" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=2800&pause=800&color=FFFFFF&center=true&vCenter=true&width=800&lines=Backend;DevOps;System+Builder" alt="Title Typing" />
+
+---
+
+### Designing systems that actually work. Building backend and cloud infrastructure.
+Automate. Deploy. Monitor. Improve.
 
 <br>
 
-<a href="https://github.com/gssana2341?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore_My_Projects-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="mailto:zoomgamer807@gmail.com">
-  <img src="https://img.shields.io/badge/Contact_Me-2563EB?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<img src="./dino-night.svg" width="90%" alt="System Operation Dino" />
 
-<br><br>
+<sub style="color: #8b949e">Systems must remain operational, even in the shadows. 🦖</sub>
 
-<img src="./assets/gemini-svg.svg" width="100%" alt="Night dino easter egg" />
-<sub>ต่อให้เน็ตหลุด ระบบก็ยังต้องรัน 🦖</sub><br><br>
+<br>
+<br>
 
-<br><br>
+[ Explore Projects ](https://github.com/gssana2341?tab=repositories) | [ Contact Me ](mailto:zoomgamer807@gmail.com)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:172554,100:2563EB&height=3&width=1000" />
+<br>
+<br>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:172554,100:2563EB&height=2&width=1000" />
 </div>
 
 <br>
 
-## 🧭&nbsp; `whoami`
+---
 
-<table width="100%">
+## Compass: `whoami`
+
+<table width="100%" cellpadding="10">
 <tr>
 <td width="60%" valign="top">
 
-```yaml
-name: Gassana
-location: Thailand
-education: Digital Technology @ SUT
-focus: Backend, DevOps, Cloud & System Architecture
-status: Building, learning, improving — every day
-```
+### Profile
 
-I enjoy understanding how an entire system works — from devices and APIs
-to databases, deployment pipelines, and cloud infrastructure.
+- **Name:** Gassana
+- **Location:** Thailand
+- **Education:** Digital Technology @ Suranaree University of Technology
+- **Status:** Building, learning, improving — every day
+
+### Primary Focus
+
+<p style="font-size: 16px;">I enjoy architecting complete systems — tracing data flow from devices to APIs, databases, deployment pipelines, and cloud infrastructure.</p>
+
+> DevOps is not a role, it's a culture of efficiency.
 
 </td>
 <td width="40%" valign="top" align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=gssana2341&show_icons=true&hide_title=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=2563EB&text_color=C9D1D9" width="100%" />
+<img src="https://github-stats-extended.vercel.app/api?username=gssana2341&show_icons=true&hide_title=true&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF" width="100%" />
 
 </td>
 </tr>
@@ -54,71 +60,70 @@ to databases, deployment pipelines, and cloud infrastructure.
 
 <br>
 
-## 🛠️&nbsp; `tech-stack`
+---
 
-<table width="100%">
-<tr>
-<td width="120" align="right"><b>Backend & Database</b></td>
-<td><img src="https://skillicons.dev/icons?i=rust,python,ts,nodejs,postgres,mysql,redis,firebase" /></td>
-</tr>
-<tr>
-<td width="120" align="right"><b>DevOps & Infra</b></td>
-<td><img src="https://skillicons.dev/icons?i=docker,githubactions,linux,nginx,gcp,git,github" /></td>
-</tr>
-<tr>
-<td width="120" align="right"><b>App & Tools</b></td>
-<td><img src="https://skillicons.dev/icons?i=flutter,dart,java,vscode,postman,figma" /></td>
-</tr>
-</table>
+## Technical Stack
+
+The tools I use to build scalable and reliable systems. (Icons removed for a cleaner look)
+
+| Category | Skills |
+| :--- | :--- |
+| **Backend** | Rust | Python | TypeScript | Node.js |
+| **Database** | PostgreSQL | MySQL | Redis | Firebase |
+| **Infrastructure** | Docker | GitHub Actions | Linux | Nginx | GCP |
+| **DevOps** | Git | Kubernetes (Learning) | Terraform (Learning) |
+| **Tools** | VSCode | Postman | Figma |
 
 <br>
 
-## ⚙️&nbsp; `system-workflow`
+---
+
+## System Workflow: `automation-pipeline`
 
 <div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=17&duration=3500&pause=1000&color=7AA2F7&center=true&vCenter=true&width=900&lines=%F0%9F%92%A1+Plan+%E2%86%92+%F0%9F%8F%97%EF%B8%8F+Design+%E2%86%92+%F0%9F%92%BB+Build+%E2%86%92+%F0%9F%A7%AA+Test+%E2%86%92+%F0%9F%9A%80+Deploy+%E2%86%92+%F0%9F%93%88+Monitor" />
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=17&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=Plan+→+Design+→+Build+→+Test+→+Deploy+→+Monitor" />
 </div>
 
 <br>
 
-## 🚀&nbsp; `featured-projects`
+---
 
-<table width="100%">
+## Featured Projects
+
+<table width="100%" cellpadding="10">
 <tr>
 <td width="50%" valign="top">
 
-### 🚀 Launchless
-Serverless platform concept designed to simplify application deployment and infrastructure management.
+### Launchless
 
-<img src="https://img.shields.io/badge/Cloud-2563EB?style=flat-square" /> <img src="https://img.shields.io/badge/Backend-172554?style=flat-square" /> <img src="https://img.shields.io/badge/DevOps-0D1117?style=flat-square" />
+<p style="font-size: 14px; color: #C9D1D9;">A Serverless platform concept focused on simplifying application deployment and infrastructure management.</p>
+`Cloud` `Backend` `DevOps` `Architecture`
 
 </td>
 <td width="50%" valign="top">
 
-### 👟 Smart Insole System
-IoT health platform using ESP32, BLE, mobile applications, and cloud services.
+### Smart Insole System
 
-<img src="https://img.shields.io/badge/IoT-2563EB?style=flat-square" /> <img src="https://img.shields.io/badge/ESP32-172554?style=flat-square" /> <img src="https://img.shields.io/badge/Backend-0D1117?style=flat-square" />
+<p style="font-size: 14px; color: #C9D1D9;">An IoT health platform utilizing ESP32, BLE, mobile applications, and cloud services for data analysis.</p>
+`IoT` `ESP32` `Backend` `Cloud` `HealthTech`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 📡 IoT Sensor Platform
-Device-to-cloud platform for receiving, storing, and monitoring sensor data.
+### IoT Sensor Platform
 
-<img src="https://img.shields.io/badge/API-2563EB?style=flat-square" /> <img src="https://img.shields.io/badge/PostgreSQL-172554?style=flat-square" /> <img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square" />
+<p style="font-size: 14px; color: #C9D1D9;">A device-to-cloud platform designed for receiving, storing, and monitoring large-scale sensor data.</p>
+`API` `PostgreSQL` `Docker` `Data Engineering`
 
 </td>
 <td width="50%" valign="top">
 
-### ✅ AI Task Application
-Task management application with AI assistance and team collaboration.
+### AI Task Application
 
-<img src="https://img.shields.io/badge/Flutter-2563EB?style=flat-square" /> <img src="https://img.shields.io/badge/Firebase-172554?style=flat-square" /> <img src="https://img.shields.io/badge/AI-0D1117?style=flat-square" />
+<p style="font-size: 14px; color: #C9D1D9;">A task management application featuring AI assistance for optimization and team collaboration tools.</p>
+`Flutter` `Firebase` `AI` `Mobile`
 
 </td>
 </tr>
@@ -126,35 +131,39 @@ Task management application with AI assistance and team collaboration.
 
 <br>
 
-## 📚&nbsp; `currently-learning`
+---
+
+## Current Objectives: `learning-path`
+
+<p style="font-size: 16px;">I am currently focused on mastering these advanced cloud technologies.</p>
 
 <div align="center">
-
-<img src="https://img.shields.io/badge/Kubernetes-Learning-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-<img src="https://img.shields.io/badge/Terraform-Learning-844FBA?style=for-the-badge&logo=terraform&logoColor=white" />
-<img src="https://img.shields.io/badge/Monitoring-Improving-F46800?style=for-the-badge&logo=prometheus&logoColor=white" />
-<img src="https://img.shields.io/badge/English-Practicing-0A66C2?style=for-the-badge" />
-
+  <code style="background-color: #326CE5; color: white; padding: 5px 10px; border-radius: 5px;">Kubernetes (Learning)</code>
+  &nbsp;
+  <code style="background-color: #844FBA; color: white; padding: 5px 10px; border-radius: 5px;">Terraform (Learning)</code>
+  &nbsp;
+  <code style="background-color: #F46800; color: white; padding: 5px 10px; border-radius: 5px;">Prometheus / Grafana (Improving)</code>
 </div>
 
 <br>
 
+---
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:172554,100:2563EB&height=3&width=1000" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:172554,100:2563EB&height=2&width=1000" />
 
-<br><br>
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=gssana2341&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS" />
 
-<br><br>
-
-### `Code → Build → Deploy → Improve`
-
-<sub>Thanks for visiting my profile. Let's build something useful. 🚀</sub>
-
+<br>
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:0D1117,50:172554,100:2563EB&section=footer" />
+> **Code → Build → Deploy → Improve**
+<br>
+<sub>Thanks for visiting my profile. Let's build something useful.</sub>
+<br>
+<sub>© GSSANA</sub>
 
 </div>
