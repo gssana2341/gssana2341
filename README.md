@@ -5,19 +5,22 @@
 <br>
 
 ```javascript
-whoami();
-"Gassana — Digital Technology student from Thailand";
+function whoami() {
+  return "Gassana — Digital Technology student from Thailand";
+}
 
-focus();
-[
-  "Backend Development",
-  "DevOps & CI/CD",
-  "Cloud Infrastructure",
-  "System Architecture"
-];
+function focus() {
+  return [
+    "Backend Development",
+    "DevOps & CI/CD",
+    "Cloud Infrastructure",
+    "System Architecture"
+  ];
+}
 
-status();
-"Building systems. Learning every day.";
+function status() {
+  return "Building systems. Learning every day.";
+}
 ```
 
 <br>
