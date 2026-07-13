@@ -15,6 +15,11 @@
 
 <br><br>
 
+<img src="./assets/dino-night.svg" width="100%" alt="Night dino easter egg" />
+<sub>ต่อให้เน็ตหลุด ระบบก็ยังต้องรัน 🦖</sub><br><br>
+
+<br><br>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:172554,100:2563EB&height=3&width=1000" />
 
 </div>
@@ -51,25 +56,20 @@ to databases, deployment pipelines, and cloud infrastructure.
 
 ## 🛠️&nbsp; `tech-stack`
 
-<div align="center">
-
-**Backend & Database**
-<br>
-<img src="https://skillicons.dev/icons?i=rust,python,ts,nodejs,postgres,mysql,redis,firebase" />
-
-<br><br>
-
-**DevOps & Infrastructure**
-<br>
-<img src="https://skillicons.dev/icons?i=docker,githubactions,linux,nginx,gcp,git,github" />
-
-<br><br>
-
-**Application & Tools**
-<br>
-<img src="https://skillicons.dev/icons?i=flutter,dart,java,vscode,postman,figma" />
-
-</div>
+<table width="100%">
+<tr>
+<td width="120" align="right"><b>Backend & Database</b></td>
+<td><img src="https://skillicons.dev/icons?i=rust,python,ts,nodejs,postgres,mysql,redis,firebase" /></td>
+</tr>
+<tr>
+<td width="120" align="right"><b>DevOps & Infra</b></td>
+<td><img src="https://skillicons.dev/icons?i=docker,githubactions,linux,nginx,gcp,git,github" /></td>
+</tr>
+<tr>
+<td width="120" align="right"><b>App & Tools</b></td>
+<td><img src="https://skillicons.dev/icons?i=flutter,dart,java,vscode,postman,figma" /></td>
+</tr>
+</table>
 
 <br>
 
