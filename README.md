@@ -1,125 +1,67 @@
 <div align="center">
 
-<img src="https://github.com/gssana2341.png" width="140" alt="gssana2341 profile picture" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0D1117,50:172554,100:2563EB&text=GSSANA&fontColor=FFFFFF&fontSize=48&fontAlignY=36&desc=Backend%20%E2%80%A2%20DevOps%20%E2%80%A2%20System%20Builder&descAlignY=57&animation=fadeIn" />
 
-# Hi, I'm Gssana 👋
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Designing+systems+that+actually+work.;Building+backend+and+cloud+infrastructure.;Automate.+Deploy.+Monitor.+Improve." alt="Typing introduction" />
 
-### Backend • DevOps • Cloud • System Design
-
-<p>
-  <code>Design → Build → Deploy → Monitor → Improve</code>
-</p>
-
-<p>
-  📍 Thailand &nbsp;•&nbsp;
-  🎓 Digital Technology, Suranaree University of Technology
-</p>
-
-<p>
-  I enjoy understanding how systems work, designing backend architecture,
-  connecting services, and turning ideas into working products.
-</p>
+<br>
 
 <a href="https://github.com/gssana2341?tab=repositories">
-  <img src="https://img.shields.io/badge/View_My_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="View repositories" />
+  <img src="https://img.shields.io/badge/Explore_My_Projects-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="mailto:zoomgamer807@gmail.com">
+  <img src="https://img.shields.io/badge/Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## `> whoami`
 
 ```yaml
 name: Gssana
 location: Thailand
 education: Digital Technology @ SUT
-
-interests:
-  - Backend Development
-  - DevOps and CI/CD
-  - Cloud Infrastructure
-  - Database Design
-  - System Architecture
-  - IoT Systems
-
-currently_learning:
-  - Linux Administration
-  - Docker and Containerization
-  - CI/CD Automation
-  - Cloud Deployment
-  - Monitoring and Observability
-
-goal:
-  Build reliable systems that solve real-world problems.
+focus: Backend, DevOps, Cloud and System Architecture
+status: Building, learning and improving every day
 ```
 
-I may not be the fastest coder, but I enjoy understanding the whole system:
-
-* How services communicate
-* How data moves through the system
-* How databases should be structured
-* How applications are deployed
-* How systems are monitored and recovered
-* How infrastructure can support future growth
+I enjoy understanding how an entire system works — from devices and APIs to databases, deployment pipelines and cloud infrastructure.
 
 ---
 
-## 🛠️ Technologies & Tools
-
-### Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=rust,python,ts,js,java,dart" alt="Programming languages" />
-</p>
-
-### Backend & Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,postgres,mysql,firebase,prisma,sqlite" alt="Backend and database tools" />
-</p>
-
-### DevOps & Cloud
-
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,githubactions,linux,nginx,gcp" alt="DevOps and cloud tools" />
-</p>
-
-### Development Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" alt="Development tools" />
-</p>
-
-> Some technologies listed here are tools I have used in projects, while others are technologies I am actively studying and improving.
-
----
-
-## ⚙️ How I Think About Systems
+## `> tech-stack`
 
 <div align="center">
 
-```text
-Understand the problem
-        ↓
-Design the architecture
-        ↓
-Model the data
-        ↓
-Build the services
-        ↓
-Test the system
-        ↓
-Deploy automatically
-        ↓
-Monitor and improve
-```
+### Backend & Database
+
+<img src="https://skillicons.dev/icons?i=rust,python,ts,nodejs,postgres,mysql,redis,firebase" />
+
+### DevOps & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=docker,githubactions,linux,nginx,gcp,git,github" />
+
+### Application & Tools
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,java,vscode,postman,figma" />
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## `> system-workflow`
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=17&duration=3500&pause=1000&color=7AA2F7&center=true&vCenter=true&width=900&lines=%F0%9F%92%A1+Plan+%E2%86%92+%F0%9F%8F%97%EF%B8%8F+Design+%E2%86%92+%F0%9F%92%BB+Build+%E2%86%92+%F0%9F%A7%AA+Test+%E2%86%92+%F0%9F%9A%80+Deploy+%E2%86%92+%F0%9F%93%88+Monitor" />
+
+</div>
+
+---
+
+## `> featured-projects`
 
 <table>
 <tr>
@@ -127,34 +69,18 @@ Monitor and improve
 
 ### 🚀 Launchless
 
-A serverless platform concept designed to simplify application deployment and infrastructure management.
+Serverless platform concept designed to simplify application deployment and infrastructure management.
 
-**Focus areas**
-
-* Deployment workflow
-* Backend services
-* Cloud infrastructure
-* Developer experience
-* System architecture
-
-`Cloud` `Backend` `DevOps` `Serverless`
+`Cloud` `Backend` `DevOps`
 
 </td>
 <td width="50%" valign="top">
 
 ### 👟 Smart Insole System
 
-An IoT health-monitoring system that collects sensor data from smart insoles and processes it through mobile and cloud services.
+IoT health platform using ESP32, BLE, mobile applications and cloud services.
 
-**Focus areas**
-
-* ESP32 and BLE communication
-* Sensor data processing
-* Backend APIs
-* Health-data architecture
-* Cloud synchronization
-
-`IoT` `ESP32` `BLE` `Backend` `Health Tech`
+`IoT` `ESP32` `Backend`
 
 </td>
 </tr>
@@ -164,82 +90,18 @@ An IoT health-monitoring system that collects sensor data from smart insoles and
 
 ### 📡 IoT Sensor Platform
 
-A platform for receiving, storing, monitoring, and analyzing sensor data from connected devices.
+Device-to-cloud platform for receiving, storing and monitoring sensor data.
 
-**Focus areas**
-
-* Device-to-cloud communication
-* API ingestion
-* PostgreSQL database design
-* Docker deployment
-* Monitoring and logging
-
-`IoT` `API` `PostgreSQL` `Docker` `Cloud`
+`API` `PostgreSQL` `Docker`
 
 </td>
 <td width="50%" valign="top">
 
 ### ✅ AI Task Application
 
-A task-management application concept with personal and team workspaces, multiple task views, and an AI assistant.
+Task management application with AI assistance and team collaboration.
 
-**Focus areas**
-
-* Flutter application architecture
-* Firebase authentication
-* Task and team data models
-* AI-assisted task updates
-* Product and system design
-
-`Flutter` `Firebase` `AI` `Product Design`
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-[View all repositories →](https://github.com/gssana2341?tab=repositories)
-
-</div>
-
----
-
-## 🧩 What I Like Building
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### Backend Systems
-
-* REST APIs
-* Authentication
-* Database integration
-* Service communication
-* Data validation
-
-</td>
-<td width="33%" valign="top">
-
-### DevOps Workflows
-
-* Docker environments
-* CI/CD pipelines
-* Cloud deployment
-* Reverse proxy setup
-* Environment management
-
-</td>
-<td width="33%" valign="top">
-
-### System Architecture
-
-* Architecture diagrams
-* Database schemas
-* Data-flow design
-* Infrastructure planning
-* Scalability planning
+`Flutter` `Firebase` `AI`
 
 </td>
 </tr>
@@ -247,70 +109,30 @@ A task-management application concept with personal and team workspaces, multipl
 
 ---
 
-## 📚 Currently Improving
-
-```text
-Linux        ███████░░░
-Docker       ███████░░░
-PostgreSQL   ███████░░░
-Backend APIs ██████░░░░
-CI/CD        ██████░░░░
-Cloud        █████░░░░░
-Kubernetes   ███░░░░░░░
-Terraform    ██░░░░░░░░
-English      ████░░░░░░
-```
-
-My current goal is to become job-ready for junior roles related to:
-
-* Junior DevOps Engineer
-* Cloud or Infrastructure Engineer
-* Junior Backend Developer
-* System Engineer
-* Platform Engineering
-* Technical Support or Application Support
-
----
-
-## 📊 GitHub Statistics
+## `> currently-learning`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=gssana2341&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="49%" alt="GitHub statistics" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gssana2341&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" width="49%" alt="Most used languages" />
+<img src="https://img.shields.io/badge/Kubernetes-Learning-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/Terraform-Learning-844FBA?style=for-the-badge&logo=terraform&logoColor=white" />
+<img src="https://img.shields.io/badge/Monitoring-Improving-F46800?style=for-the-badge&logo=prometheus&logoColor=white" />
+<img src="https://img.shields.io/badge/English-Practicing-0A66C2?style=for-the-badge" />
 
 </div>
+
+---
+
+## `> github-activity`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=gssana2341&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" width="49%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gssana2341&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=6" width="49%" />
 
 <br>
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gssana2341&theme=tokyonight&hide_border=true&background=0D1117" width="60%" alt="GitHub contribution streak" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gssana2341&theme=tokyo-night&bg_color=0D1117&hide_border=true&area=true" width="100%" alt="GitHub activity graph" />
-
-</div>
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-<a href="mailto:zoomgamer807@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-
-<a href="https://github.com/gssana2341">
-  <img src="https://img.shields.io/badge/GitHub-gssana2341-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
-</a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gssana2341&theme=tokyo-night&hide_border=true&bg_color=00000000&area=true" width="100%" />
 
 </div>
 
@@ -318,12 +140,16 @@ My current goal is to become job-ready for junior roles related to:
 
 <div align="center">
 
-### Build systems. Learn continuously. Improve every day.
-
-<code>Commit • Test • Deploy • Monitor • Repeat</code>
+<img src="https://komarev.com/ghpvc/?username=gssana2341&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS" />
 
 <br><br>
 
-**Thanks for visiting my profile! 🚀**
+### `Code → Build → Deploy → Improve`
+
+<sub>Thanks for visiting my profile. Let's build something useful. 🚀</sub>
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:0D1117,50:172554,100:2563EB&section=footer" />
 
 </div>
