@@ -15,7 +15,7 @@
 
 <br><br>
 
-<img src="./assets/dino-night.svg" width="100%" alt="Night dino easter egg" />
+<img src="./assets/gemini-svg.svg" width="100%" alt="Night dino easter egg" />
 <sub>ต่อให้เน็ตหลุด ระบบก็ยังต้องรัน 🦖</sub><br><br>
 
 <br><br>
