@@ -1,21 +1,28 @@
 <div align="center">
 
-<img src="https://github.com/gssana2341.png" width="145" height="145" alt="gssana2341 profile picture" />
+<img src="https://github.com/gssana2341.png" width="140" alt="gssana2341 profile picture" />
 
-# Hi, I'm gssana2341 👋
+# Hi, I'm Gssana 👋
 
-### Backend • DevOps • Cloud Infrastructure • System Design
+### Backend • DevOps • Cloud • System Design
 
-```text
-Design systems. Connect services. Deploy reliably.
-```
+<p>
+  <code>Design → Build → Deploy → Monitor → Improve</code>
+</p>
 
-📍 Thailand · 🎓 Digital Technology at Suranaree University of Technology
+<p>
+  📍 Thailand &nbsp;•&nbsp;
+  🎓 Digital Technology, Suranaree University of Technology
+</p>
 
-<br>
+<p>
+  I enjoy understanding how systems work, designing backend architecture,
+  connecting services, and turning ideas into working products.
+</p>
 
-> I enjoy understanding how systems work, designing their architecture,
-> connecting services, and turning ideas into usable products.
+<a href="https://github.com/gssana2341?tab=repositories">
+  <img src="https://img.shields.io/badge/View_My_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="View repositories" />
+</a>
 
 </div>
 
@@ -23,25 +30,42 @@ Design systems. Connect services. Deploy reliably.
 
 ## 👨‍💻 About Me
 
-I'm a Digital Technology student interested in backend systems, cloud infrastructure, databases, DevOps, and IoT.
+```yaml
+name: Gssana
+location: Thailand
+education: Digital Technology @ SUT
 
-My strength is understanding the overall system: how services communicate, how data flows, how databases should be structured, and how applications can be deployed and maintained reliably.
+interests:
+  - Backend Development
+  - DevOps and CI/CD
+  - Cloud Infrastructure
+  - Database Design
+  - System Architecture
+  - IoT Systems
 
-* 🏗️ Interested in **System Design and Software Architecture**
-* 🔌 Building **Backend APIs and Service Integrations**
-* 🗄️ Designing **Relational Databases and Data Flows**
-* ♾️ Learning **DevOps, CI/CD, and Infrastructure Automation**
-* ☁️ Deploying applications using **Cloud and Containers**
-* 📡 Working with **IoT devices, ESP32, BLE, and sensor data**
-* 📈 Exploring **Monitoring, Logging, and System Reliability**
+currently_learning:
+  - Linux Administration
+  - Docker and Containerization
+  - CI/CD Automation
+  - Cloud Deployment
+  - Monitoring and Observability
+
+goal:
+  Build reliable systems that solve real-world problems.
+```
+
+I may not be the fastest coder, but I enjoy understanding the whole system:
+
+* How services communicate
+* How data moves through the system
+* How databases should be structured
+* How applications are deployed
+* How systems are monitored and recovered
+* How infrastructure can support future growth
 
 ---
 
-## 🛠️ Technology Stack
-
-<table>
-<tr>
-<td valign="top" width="50%">
+## 🛠️ Technologies & Tools
 
 ### Languages
 
@@ -49,25 +73,16 @@ My strength is understanding the overall system: how services communicate, how d
   <img src="https://skillicons.dev/icons?i=rust,python,ts,js,java,dart" alt="Programming languages" />
 </p>
 
-### Backend & API
+### Backend & Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma" alt="Backend technologies" />
+  <img src="https://skillicons.dev/icons?i=nodejs,postgres,mysql,firebase,prisma,sqlite" alt="Backend and database tools" />
 </p>
-
-### Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,firebase" alt="Databases" />
-</p>
-
-</td>
-<td valign="top" width="50%">
 
 ### DevOps & Cloud
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,githubactions,linux,nginx,gcp" alt="DevOps and cloud technologies" />
+  <img src="https://skillicons.dev/icons?i=docker,githubactions,linux,nginx,gcp" alt="DevOps and cloud tools" />
 </p>
 
 ### Development Tools
@@ -76,36 +91,39 @@ My strength is understanding the overall system: how services communicate, how d
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" alt="Development tools" />
 </p>
 
-### Currently Learning
-
-<p>
-  <img src="https://skillicons.dev/icons?i=kubernetes,terraform,prometheus,grafana" alt="Technologies currently learning" />
-</p>
-
-</td>
-</tr>
-</table>
+> Some technologies listed here are tools I have used in projects, while others are technologies I am actively studying and improving.
 
 ---
 
-## ⚙️ Engineering Workflow
+## ⚙️ How I Think About Systems
 
 <div align="center">
 
-<img
-src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=17&duration=2500&pause=700&color=58A6FF&center=true&vCenter=true&width=900&lines=PLAN+%E2%86%92+DESIGN+%E2%86%92+CODE+%E2%86%92+TEST+%E2%86%92+DEPLOY+%E2%86%92+MONITOR;Understand+the+problem+before+choosing+the+technology;Build+systems+that+are+simple%2C+maintainable%2C+and+reliable"
-alt="Engineering workflow"
-/>
+```text
+Understand the problem
+        ↓
+Design the architecture
+        ↓
+Model the data
+        ↓
+Build the services
+        ↓
+Test the system
+        ↓
+Deploy automatically
+        ↓
+Monitor and improve
+```
 
 </div>
 
 ---
 
-## ⭐ Featured Projects
+## 🚀 Featured Projects
 
 <table>
 <tr>
-<td valign="top" width="50%">
+<td width="50%" valign="top">
 
 ### 🚀 Launchless
 
@@ -113,67 +131,67 @@ A serverless platform concept designed to simplify application deployment and in
 
 **Focus areas**
 
-* Application deployment
+* Deployment workflow
+* Backend services
 * Cloud infrastructure
-* Service configuration
 * Developer experience
-* Deployment automation
+* System architecture
 
 `Cloud` `Backend` `DevOps` `Serverless`
 
 </td>
-<td valign="top" width="50%">
+<td width="50%" valign="top">
 
-### 👟 Smart Insole Health Platform
+### 👟 Smart Insole System
 
-A smart insole and mobile health platform using pressure sensors, motion sensors, Bluetooth communication, and cloud integration.
+An IoT health-monitoring system that collects sensor data from smart insoles and processes it through mobile and cloud services.
 
 **Focus areas**
 
 * ESP32 and BLE communication
 * Sensor data processing
-* Mobile and cloud integration
-* Health data architecture
-* Offline and online synchronization
+* Backend APIs
+* Health-data architecture
+* Cloud synchronization
 
-`IoT` `ESP32` `BLE` `Health Platform`
+`IoT` `ESP32` `BLE` `Backend` `Health Tech`
 
 </td>
 </tr>
 
 <tr>
-<td valign="top" width="50%">
+<td width="50%" valign="top">
 
-### 📡 IoT Sensor Monitoring Platform
+### 📡 IoT Sensor Platform
 
-A platform for receiving, storing, monitoring, and analyzing data generated by distributed IoT devices.
+A platform for receiving, storing, monitoring, and analyzing sensor data from connected devices.
 
 **Focus areas**
 
-* Device authentication
-* Sensor data ingestion
-* PostgreSQL data storage
-* Cloud API deployment
-* Monitoring and diagnostics
+* Device-to-cloud communication
+* API ingestion
+* PostgreSQL database design
+* Docker deployment
+* Monitoring and logging
 
-`IoT` `Backend API` `PostgreSQL` `Cloud`
+`IoT` `API` `PostgreSQL` `Docker` `Cloud`
 
 </td>
-<td valign="top" width="50%">
+<td width="50%" valign="top">
 
-### ✅ AI Task Management Application
+### ✅ AI Task Application
 
-A Flutter task management application with personal and team workspaces, multiple task views, and an AI assistant.
+A task-management application concept with personal and team workspaces, multiple task views, and an AI assistant.
 
 **Focus areas**
 
-* Task and project management
-* Personal and team workspaces
-* Calendar and timeline views
-* Firebase synchronization
+* Flutter application architecture
+* Firebase authentication
+* Task and team data models
 * AI-assisted task updates
+* Product and system design
 
-`Flutter` `Firebase` `AI` `Mobile App`
+`Flutter` `Firebase` `AI` `Product Design`
 
 </td>
 </tr>
@@ -187,68 +205,80 @@ A Flutter task management application with personal and team workspaces, multipl
 
 ---
 
-## 🧩 What I Like to Build
+## 🧩 What I Like Building
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### Backend Systems
+
+* REST APIs
+* Authentication
+* Database integration
+* Service communication
+* Data validation
+
+</td>
+<td width="33%" valign="top">
+
+### DevOps Workflows
+
+* Docker environments
+* CI/CD pipelines
+* Cloud deployment
+* Reverse proxy setup
+* Environment management
+
+</td>
+<td width="33%" valign="top">
+
+### System Architecture
+
+* Architecture diagrams
+* Database schemas
+* Data-flow design
+* Infrastructure planning
+* Scalability planning
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📚 Currently Improving
 
 ```text
-Client Applications
-        │
-        ▼
-Backend APIs
-        │
-        ├── Authentication
-        ├── Business Logic
-        ├── Database
-        ├── Object Storage
-        └── External Services
-        │
-        ▼
-Containers and Cloud
-        │
-        ├── CI/CD
-        ├── Reverse Proxy
-        ├── Monitoring
-        ├── Logging
-        └── Backup and Recovery
+Linux        ███████░░░
+Docker       ███████░░░
+PostgreSQL   ███████░░░
+Backend APIs ██████░░░░
+CI/CD        ██████░░░░
+Cloud        █████░░░░░
+Kubernetes   ███░░░░░░░
+Terraform    ██░░░░░░░░
+English      ████░░░░░░
 ```
 
-I am especially interested in projects that combine:
+My current goal is to become job-ready for junior roles related to:
 
-* Backend development
-* Infrastructure and cloud services
-* Database design
-* Deployment automation
-* Monitoring and reliability
-* IoT and real-world devices
-
----
-
-## 📚 Current Learning Goals
-
-* Strengthen Linux and networking fundamentals
-* Improve backend coding and debugging skills
-* Build production-style CI/CD pipelines
-* Learn Kubernetes and container orchestration
-* Manage infrastructure using Terraform
-* Implement monitoring with Prometheus and Grafana
-* Improve technical English communication
+* Junior DevOps Engineer
+* Cloud or Infrastructure Engineer
+* Junior Backend Developer
+* System Engineer
+* Platform Engineering
+* Technical Support or Application Support
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img
-src="https://github-readme-stats.vercel.app/api?username=gssana2341&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"
-width="48%"
-alt="GitHub statistics"
-/>
+<img src="https://github-readme-stats.vercel.app/api?username=gssana2341&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="49%" alt="GitHub statistics" />
 
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=gssana2341&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"
-width="48%"
-alt="Most used languages"
-/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gssana2341&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" width="49%" alt="Most used languages" />
 
 </div>
 
@@ -256,11 +286,31 @@ alt="Most used languages"
 
 <div align="center">
 
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=gssana2341&theme=tokyo-night&bg_color=0D1117&hide_border=true"
-width="100%"
-alt="GitHub contribution activity graph"
-/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gssana2341&theme=tokyonight&hide_border=true&background=0D1117" width="60%" alt="GitHub contribution streak" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gssana2341&theme=tokyo-night&bg_color=0D1117&hide_border=true&area=true" width="100%" alt="GitHub activity graph" />
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="mailto:zoomgamer807@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+<a href="https://github.com/gssana2341">
+  <img src="https://img.shields.io/badge/GitHub-gssana2341-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+</a>
 
 </div>
 
@@ -268,12 +318,11 @@ alt="GitHub contribution activity graph"
 
 <div align="center">
 
-### Build · Deploy · Monitor · Improve
+### Build systems. Learn continuously. Improve every day.
 
-I'm currently preparing for opportunities in
-**Backend, DevOps, Cloud, Platform Engineering, and Infrastructure.**
+<code>Commit • Test • Deploy • Monitor • Repeat</code>
 
-<br>
+<br><br>
 
 **Thanks for visiting my profile! 🚀**
 
