@@ -20,7 +20,7 @@
 ## `> whoami`
 
 ```yaml
-name: Gssana
+name: Gassana
 location: Thailand
 education: Digital Technology @ SUT
 focus: Backend, DevOps, Cloud and System Architecture
@@ -119,24 +119,6 @@ Task management application with AI assistance and team collaboration.
 <img src="https://img.shields.io/badge/English-Practicing-0A66C2?style=for-the-badge" />
 
 </div>
-
----
-
-## `> github-activity`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=gssana2341&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" width="49%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gssana2341&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=6" width="49%" />
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gssana2341&theme=tokyo-night&hide_border=true&bg_color=00000000&area=true" width="100%" />
-
-</div>
-
----
 
 <div align="center">
 
