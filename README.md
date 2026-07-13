@@ -1,92 +1,122 @@
 <div align="center">
 
-<img src="./assets/gassana-space-banner.gif" width="100%" alt="GASSANA Space Banner" />
+<img src="./assets/gassana-space-banner.gif" width="100%" alt="GASSANA Animated Space Banner" />
 
 <br>
 
-```txt
-Backend • DevOps • System Builder
-Code → Build → Deploy → Improve
-```
+### Building systems behind the screen.
 
-<a href="https://github.com/gssana2341?tab=repositories">
-  <img src="https://img.shields.io/badge/PROJECTS-080B1A?style=for-the-badge&logo=github&logoColor=7DD3FC" />
-</a>
+`Backend Development` • `DevOps` • `Cloud` • `IoT`
+
+<p>
+Digital Technology student from Thailand who enjoys designing backend systems,<br>
+connecting services, managing infrastructure, and turning ideas into working products.
+</p>
+
 <a href="mailto:zoomgamer807@gmail.com">
-  <img src="https://img.shields.io/badge/CONTACT-111633?style=for-the-badge&logo=gmail&logoColor=A5B4FC" />
+  <img src="https://img.shields.io/badge/Email-zoomgamer807%40gmail.com-0B1120?style=flat-square&logo=gmail&logoColor=7DD3FC" />
 </a>
 
 </div>
 
 ---
 
-## `> whoami`
+## About Me
 
-```bash
-$ name
-Gassana
-
-$ location
-Thailand
-
-$ focus
-Backend Development
-DevOps & CI/CD
-Cloud Infrastructure
-System Architecture
+```yaml
+name: Gassana
+location: Thailand
+education: Digital Technology
+focus:
+  - Backend Development
+  - DevOps and CI/CD
+  - Cloud Infrastructure
+  - Database Design
+  - IoT Systems
 ```
 
 ---
 
-## `> tech_stack`
+## Tech Stack
 
-<div align="center">
+### Languages
 
-<img src="https://skillicons.dev/icons?i=rust,python,ts,nodejs,postgres,docker,linux,gcp,git&theme=dark" />
+<p>
+  <img src="https://skillicons.dev/icons?i=rust,python,ts,js,java&theme=dark" />
+</p>
 
-</div>
+### Backend & API
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" />
+</p>
+
+### Database & Storage
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,firebase&theme=dark" />
+</p>
+
+### DevOps & Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,linux,nginx,gcp,githubactions,git,github&theme=dark" />
+</p>
+
+### Application & IoT
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,react,html,css,arduino&theme=dark" />
+</p>
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,postman,figma&theme=dark" />
+</p>
 
 ---
 
-## `> projects`
+## Featured Projects
 
 ### Launchless
-Serverless platform for simplifying deployment and infrastructure management.
+
+A serverless platform concept designed to simplify application deployment and infrastructure management.
 
 `Backend` `Cloud` `DevOps`
 
 ### Smart Insole System
-IoT health platform connecting ESP32, BLE, mobile apps, and cloud services.
 
-`IoT` `ESP32` `Backend`
+An IoT health platform connecting smart insoles, ESP32, BLE, mobile applications, and cloud services.
+
+`IoT` `ESP32` `Backend` `AI`
 
 ### IoT Sensor Platform
-Device-to-cloud system for receiving and monitoring sensor data.
 
-`API` `PostgreSQL` `Docker`
+A device-to-cloud platform for receiving, storing, and monitoring sensor information.
+
+`REST API` `PostgreSQL` `Docker` `Google Cloud`
 
 ---
 
-## `> current_mission`
+## Currently Learning
 
-```txt
-[███████░░░] Building my Backend & DevOps portfolio
-
-+ Improve Linux and Docker
-+ Build CI/CD pipelines
-+ Learn Kubernetes and Terraform
+```text
+Docker & Linux          ████████░░
+CI/CD Automation        ███████░░░
+Cloud Infrastructure    ██████░░░░
+Kubernetes              ████░░░░░░
+Terraform               ███░░░░░░░
 ```
 
 ---
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=gssana2341&style=flat-square&color=172554&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=gssana2341&style=flat-square&color=0E7490&label=PROFILE+VIEWS" />
 
 <br><br>
 
-```txt
-SYSTEM STATUS: ONLINE
-```
+<code>Code → Build → Deploy → Monitor → Improve</code>
 
 </div>
