@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/gssana-space-banner.gif" width="100%" alt="Gassana animated space banner" />
+<img src="./assets/gassana-space-banner.gif" width="100%" alt="Gassana animated space banner" />
 
 <br>
 
