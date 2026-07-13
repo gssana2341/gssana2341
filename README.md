@@ -5,19 +5,19 @@
 <br>
 
 ```javascript
-> whoami()
-'Gassana — Digital Technology student from Thailand'
+whoami();
+"Gassana — Digital Technology student from Thailand";
 
-> focus()
+focus();
 [
-  'Backend Development',
-  'DevOps & CI/CD',
-  'Cloud Infrastructure',
-  'System Architecture'
-]
+  "Backend Development",
+  "DevOps & CI/CD",
+  "Cloud Infrastructure",
+  "System Architecture"
+];
 
-> status()
-'Building systems. Learning every day.'
+status();
+"Building systems. Learning every day.";
 ```
 
 <br>
