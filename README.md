@@ -5,8 +5,8 @@
 <br>
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=7DD3FC&center=true&vCenter=true&width=700&lines=Building+systems+behind+the+screen.;Backend+%E2%80%A2+DevOps+%E2%80%A2+Cloud+Infrastructure;Code+%E2%86%92+Build+%E2%86%92+Deploy+%E2%86%92+Monitor+%E2%86%92+Improve"
-  alt="Animated typing introduction"
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=7DD3FC&center=true&vCenter=true&width=700&lines=Building+systems+behind+the+screen.;Backend+%E2%80%A2+DevOps+%E2%80%A2+Cloud+%E2%80%A2+IoT;Code+%E2%86%92+Build+%E2%86%92+Deploy+%E2%86%92+Improve"
+  alt="Animated introduction"
 />
 
 <br>
@@ -16,58 +16,89 @@
 </a>
 &nbsp;
 <a href="https://github.com/gssana2341?tab=repositories">
-  <img src="https://img.shields.io/badge/PROJECTS-Explore-0B1120?style=flat-square&logo=github&logoColor=7DD3FC" />
+  <img src="https://img.shields.io/badge/PROJECTS-EXPLORE-0B1120?style=flat-square&logo=github&logoColor=7DD3FC" />
 </a>
 
 </div>
 
 ---
 
-## `> About`
+## `> About Me`
 
-```console
-gassana@github:~$ whoami
+I’m **Gassana**, a Digital Technology student from Thailand with a strong interest in  
+**Backend Development, DevOps, Cloud Infrastructure, Databases, and IoT systems**.
 
-Digital Technology student from Thailand.
-Focused on Backend, DevOps, Cloud Infrastructure and IoT systems.
+I enjoy understanding how an entire system works — from devices and applications  
+to APIs, databases, servers, deployment pipelines, and monitoring.
 
-I enjoy designing system architecture, connecting services,
-managing databases and turning ideas into working products.
+Rather than focusing only on writing code, I like planning system architecture,  
+connecting technologies together, solving infrastructure problems, and turning  
+ideas into practical systems that can actually be deployed and used.
+
+```text
+Current focus: Backend • DevOps • Cloud • System Architecture
 ```
 
 ---
 
 ## `> Tech Stack`
 
+<table>
+<tr>
+<td width="25%" align="center" valign="top">
+
 ### Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=rust,python,ts,js,java&theme=dark" />
-</p>
+<img src="https://skillicons.dev/icons?i=rust,python,ts,js,java&theme=dark" />
 
-### Backend
+<br><br>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" />
-</p>
+`Rust` `Python`  
+`TypeScript`  
+`JavaScript` `Java`
 
-### Database & Storage
+</td>
+<td width="25%" align="center" valign="top">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,firebase&theme=dark" />
-</p>
+### Backend & Data
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,mysql,redis,firebase&theme=dark" />
+
+<br><br>
+
+`Node.js` `Express`  
+`FastAPI` `PostgreSQL`  
+`MySQL` `Redis` `Firebase`
+
+</td>
+<td width="25%" align="center" valign="top">
 
 ### DevOps & Cloud
 
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,linux,nginx,gcp,githubactions&theme=dark" />
-</p>
+<img src="https://skillicons.dev/icons?i=docker,linux,nginx,gcp,githubactions,git&theme=dark" />
 
-### Monitoring, IoT & Tools
+<br><br>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=grafana,arduino,git,github,vscode,postman&theme=dark" />
-</p>
+`Docker` `Linux`  
+`Nginx` `Google Cloud`  
+`GitHub Actions` `Git`
+
+</td>
+<td width="25%" align="center" valign="top">
+
+### IoT & Tools
+
+<img src="https://skillicons.dev/icons?i=arduino,grafana,github,vscode,postman&theme=dark" />
+
+<br><br>
+
+`ESP32` `BLE`  
+`Grafana` `GitHub`  
+`VS Code` `Postman`
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -75,25 +106,25 @@ managing databases and turning ideas into working products.
 
 <table>
 <tr>
-<td width="33%" align="center">
+<td width="33%" align="center" valign="top">
 
 ### Backend Systems
 
-APIs, authentication, databases and service integrations.
+APIs, authentication, databases, and service integrations.
 
 </td>
-<td width="33%" align="center">
+<td width="33%" align="center" valign="top">
 
 ### Cloud & DevOps
 
-Containers, CI/CD pipelines and cloud deployments.
+Containers, CI/CD pipelines, deployment, and monitoring.
 
 </td>
-<td width="33%" align="center">
+<td width="33%" align="center" valign="top">
 
 ### IoT Platforms
 
-Device communication, sensor data and monitoring systems.
+Sensor communication, device data, and cloud connectivity.
 
 </td>
 </tr>
@@ -111,13 +142,13 @@ Serverless platform concept for simplifying application deployment and infrastru
 
 ### Smart Insole System
 
-IoT health platform connecting ESP32, BLE, mobile applications and cloud services.
+IoT health platform connecting ESP32, BLE, mobile applications, AI, and cloud services.
 
 `IoT` `ESP32` `Backend` `AI`
 
 ### IoT Sensor Platform
 
-Device-to-cloud platform for receiving, storing and monitoring sensor data.
+Device-to-cloud system for receiving, storing, and monitoring sensor data.
 
 `REST API` `PostgreSQL` `Docker` `Google Cloud`
 
@@ -130,7 +161,7 @@ Device-to-cloud platform for receiving, storing and monitoring sensor data.
 <br><br>
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3500&pause=1500&color=A5B4FC&center=true&vCenter=true&width=500&lines=SYSTEM+STATUS%3A+ONLINE;Always+building.+Always+improving."
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3500&pause=1400&color=A5B4FC&center=true&vCenter=true&width=550&lines=SYSTEM+STATUS%3A+ONLINE;Design.+Build.+Deploy.+Monitor.+Improve."
   alt="Animated system status"
 />
 
