@@ -4,18 +4,20 @@
 
 <br>
 
-```text
-$ whoami
-Gassana — Digital Technology student from Thailand
+```javascript
+> whoami()
+'Gassana — Digital Technology student from Thailand'
 
-$ focus
-Backend Development
-DevOps & CI/CD
-Cloud Infrastructure
-System Architecture
+> focus()
+[
+  'Backend Development',
+  'DevOps & CI/CD',
+  'Cloud Infrastructure',
+  'System Architecture'
+]
 
-$ status
-Building systems. Learning every day.
+> status()
+'Building systems. Learning every day.'
 ```
 
 <br>
