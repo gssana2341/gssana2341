@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0D1117,50:172554,100:2563EB&text=GSSANA&fontColor=FFFFFF&fontSize=48&fontAlignY=36&desc=Backend%20%E2%80%A2%20DevOps%20%E2%80%A2%20System%20Builder&descAlignY=57&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:172554,100:2563EB&text=GSSANA&fontColor=FFFFFF&fontSize=52&fontAlignY=35&desc=Backend%20%E2%80%A2%20DevOps%20%E2%80%A2%20System%20Builder&descAlignY=58&animation=fadeIn" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Designing+systems+that+actually+work.;Building+backend+and+cloud+infrastructure.;Automate.+Deploy.+Monitor.+Improve." alt="Typing introduction" />
 
@@ -10,48 +10,70 @@
   <img src="https://img.shields.io/badge/Explore_My_Projects-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="mailto:zoomgamer807@gmail.com">
-  <img src="https://img.shields.io/badge/Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Contact_Me-2563EB?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:172554,100:2563EB&height=3&width=1000" />
 
 </div>
 
----
+<br>
 
-## `> whoami`
+## 🧭&nbsp; `whoami`
+
+<table width="100%">
+<tr>
+<td width="60%" valign="top">
 
 ```yaml
 name: Gassana
 location: Thailand
 education: Digital Technology @ SUT
-focus: Backend, DevOps, Cloud and System Architecture
-status: Building, learning and improving every day
+focus: Backend, DevOps, Cloud & System Architecture
+status: Building, learning, improving — every day
 ```
 
-I enjoy understanding how an entire system works — from devices and APIs to databases, deployment pipelines and cloud infrastructure.
+I enjoy understanding how an entire system works — from devices and APIs
+to databases, deployment pipelines, and cloud infrastructure.
 
----
+</td>
+<td width="40%" valign="top" align="center">
 
-## `> tech-stack`
+<img src="https://github-readme-stats.vercel.app/api?username=gssana2341&show_icons=true&hide_title=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=2563EB&text_color=C9D1D9" width="100%" />
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## 🛠️&nbsp; `tech-stack`
 
 <div align="center">
 
-### Backend & Database
-
+**Backend & Database**
+<br>
 <img src="https://skillicons.dev/icons?i=rust,python,ts,nodejs,postgres,mysql,redis,firebase" />
 
-### DevOps & Infrastructure
+<br><br>
 
+**DevOps & Infrastructure**
+<br>
 <img src="https://skillicons.dev/icons?i=docker,githubactions,linux,nginx,gcp,git,github" />
 
-### Application & Tools
+<br><br>
 
+**Application & Tools**
+<br>
 <img src="https://skillicons.dev/icons?i=flutter,dart,java,vscode,postman,figma" />
 
 </div>
 
----
+<br>
 
-## `> system-workflow`
+## ⚙️&nbsp; `system-workflow`
 
 <div align="center">
 
@@ -59,57 +81,52 @@ I enjoy understanding how an entire system works — from devices and APIs to da
 
 </div>
 
----
+<br>
 
-## `> featured-projects`
+## 🚀&nbsp; `featured-projects`
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
 ### 🚀 Launchless
-
 Serverless platform concept designed to simplify application deployment and infrastructure management.
 
-`Cloud` `Backend` `DevOps`
+<img src="https://img.shields.io/badge/Cloud-2563EB?style=flat-square" /> <img src="https://img.shields.io/badge/Backend-172554?style=flat-square" /> <img src="https://img.shields.io/badge/DevOps-0D1117?style=flat-square" />
 
 </td>
 <td width="50%" valign="top">
 
 ### 👟 Smart Insole System
+IoT health platform using ESP32, BLE, mobile applications, and cloud services.
 
-IoT health platform using ESP32, BLE, mobile applications and cloud services.
-
-`IoT` `ESP32` `Backend`
+<img src="https://img.shields.io/badge/IoT-2563EB?style=flat-square" /> <img src="https://img.shields.io/badge/ESP32-172554?style=flat-square" /> <img src="https://img.shields.io/badge/Backend-0D1117?style=flat-square" />
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
 ### 📡 IoT Sensor Platform
+Device-to-cloud platform for receiving, storing, and monitoring sensor data.
 
-Device-to-cloud platform for receiving, storing and monitoring sensor data.
-
-`API` `PostgreSQL` `Docker`
+<img src="https://img.shields.io/badge/API-2563EB?style=flat-square" /> <img src="https://img.shields.io/badge/PostgreSQL-172554?style=flat-square" /> <img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square" />
 
 </td>
 <td width="50%" valign="top">
 
 ### ✅ AI Task Application
-
 Task management application with AI assistance and team collaboration.
 
-`Flutter` `Firebase` `AI`
+<img src="https://img.shields.io/badge/Flutter-2563EB?style=flat-square" /> <img src="https://img.shields.io/badge/Firebase-172554?style=flat-square" /> <img src="https://img.shields.io/badge/AI-0D1117?style=flat-square" />
 
 </td>
 </tr>
 </table>
 
----
+<br>
 
-## `> currently-learning`
+## 📚&nbsp; `currently-learning`
 
 <div align="center">
 
@@ -120,7 +137,13 @@ Task management application with AI assistance and team collaboration.
 
 </div>
 
+<br>
+
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:172554,100:2563EB&height=3&width=1000" />
+
+<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=gssana2341&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS" />
 
