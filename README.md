@@ -41,7 +41,7 @@ to databases, deployment pipelines, and cloud infrastructure.
 </td>
 <td width="40%" valign="top" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=gssana2341&show_icons=true&hide_title=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=2563EB&text_color=C9D1D9" width="100%" />
+<img src="https://github-stats-extended.vercel.app/api?username=gssana2341&show_icons=true&hide_title=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=2563EB&text_color=C9D1D9" width="100%" />
 
 </td>
 </tr>
